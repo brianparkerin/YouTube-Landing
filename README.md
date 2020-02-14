@@ -4,7 +4,7 @@
 
 This is the YouTube Landing for Learn More About Code....
 
-View Project: https://brianparkerin.github.io/Netflix-Landing/
+View Project: https://brianparkerin.github.io/YouTube-Landing/
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
